@@ -8,14 +8,14 @@ NASA Turbofan fault dataset produced from the C-MAPP aircraft health monitoring 
 Engine degradation simulation was carried out using C-MAPSS. Four different were sets simulated under different combinations of operational conditions and fault modes. Records several sensor channels to characterize fault evolution. The data set was provided by the Prognostics CoE at NASA Ames.
 
 Data Elements:
-unit number
-time, in cycles
-operational setting 1
-operational setting 2
-operational setting 3
-sensor measurement 1
-sensor measurement 2 ...
-sensor measurement 26
+* unit number
+* time, in cycles
+* operational setting 1
+* operational setting 2
+* operational setting 3
+* sensor measurement 1
+* sensor measurement 2 ...
+* sensor measurement 26
 
 Wishlist data:
 
