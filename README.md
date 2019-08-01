@@ -19,14 +19,14 @@ Data Elements:
 
 Wishlist data:
 
-Historical Pilot reports of incidents
-Flight crew maintenance observations
-Maintenance log books
-Weather/Turbulence conditions
-Frequency of use
-Load conditions
-Geographic location of hangar
-Fuel Quality
+* Historical Pilot reports of incidents
+* Flight crew maintenance observations
+* Maintenance log books
+* Weather/Turbulence conditions
+* Frequency of use
+* Load conditions
+* Geographic location of hangar
+* Fuel Quality
 
 # Modeling Strategy
 1. Check data quality - clean noise 
