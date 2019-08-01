@@ -34,10 +34,10 @@ Wishlist data:
 - scrub timestamps to common format
 - create new column (FAN_ID) in RUL* file
 2. EDA
-Plot sensor reading values  against operational settings (define independent and dependent variables)
-Remove features that do not matter
-Calculate RUL for training set by engine type
-Merge RUL to test data to prepare for validation
+- Plot sensor reading values  against operational settings (define independent and dependent variables)
+- Remove features that do not matter
+- Calculate RUL for training set by engine type
+- Merge RUL to test data to prepare for validation
 3. Create Regression Model
 4. Train, Test, Validate
 
